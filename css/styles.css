@@ -3,6 +3,10 @@ html {
     background-color: rgb(53, 53, 107);
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     max-width: 1100px;
     background-color: #DDD;
