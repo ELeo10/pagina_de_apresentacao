@@ -1,0 +1,107 @@
+html {
+    font-family: Helvetica;
+    background-color: rgb(53, 53, 107);
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #DDD;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Header */
+.header {
+   text-align: center; 
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+/* Imagem em destaque */
+.featured-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.featured-image img {
+    width: 800px;
+    height: 800px;
+}
+
+/* Sobre a banda */
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid rgb(53, 53, 107);
+    border-bottom: 1px solid rgb(53, 53, 107);
+}
+
+/* Perfil dos membros */
+.members-container {
+    padding: 25px 0;
+    margin: 25px 0;
+}
+
+h2, h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.members-container h2 {
+    margin-bottom: 50px;
+}
+
+figcaption {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.member-img, .member-img2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.member-img img, .member-img2 img {
+    width: 800px;
+}
+
+.members-info {
+    margin-bottom: 50px;
+}
+
+.members-curiosities {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-bottom: 1px solid rgb(53, 53, 107);
+}
+
+.members-curiosities li {
+    height: 40px;
+}
+
+/* Redes sociais da banda */
+.social-media {
+    padding-bottom: 25px;
+}
+
+.social-media h2 {
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.social-media p {
+    padding-bottom: 10px;
+}
